@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 24AA-DB36
+
+ Directory of C:\Users\H kumar\OneDrive\Desktop\Git
+
+27-06-2021  08:46    <DIR>          .
+27-06-2021  08:46    <DIR>          ..
+27-06-2021  08:46                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  336,235,683,840 bytes free
