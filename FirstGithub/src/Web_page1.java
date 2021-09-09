@@ -27,6 +27,7 @@ public class Web_page1 {
 			ss.selectByVisibleText("INDIA");
 			}
 			driver.quit();
+			System.out.print("HI");
 	}
 
 	}
